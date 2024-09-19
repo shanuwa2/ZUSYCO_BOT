@@ -16,8 +16,8 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94701628336",
-  SUDO_NUMBERS : "94766632281,94701628336",
+  OWNER_NUMBER: "94719827972",
+  SUDO_NUMBERS : "94719827972,94701628336",
   OWNER_NAME: "Mʀ Rᴀᴍɪᴛʜᴜ",
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
@@ -32,7 +32,7 @@ module.exports = {
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
-  WORK_TYPE : "private",
+  WORK_TYPE : "public",
   WORK_MODE : "onlyinbox",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '*々 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀᴋɪʟʟᴇʀꜱᴛᴇᴀᴍ*',
